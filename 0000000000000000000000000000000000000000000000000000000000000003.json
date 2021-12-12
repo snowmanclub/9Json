@@ -1,0 +1,35 @@
+{
+  "name": "Poison #03",
+  "description": "Nine magic spells.",
+  "image": "https://ipfs.io/ipfs/QmbS9iocMMk4PXeVrx9mtFec35qPTPomsuTerz9dj5D4xo/3.png",
+
+  "attributes": [
+    {
+      "trait_type": "1-Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "2-Aura",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "3-Labels",
+      "value": "Health"
+    },
+
+    {
+      "trait_type": "4-Concoctions",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "5-Bottles",
+      "value": "Small semi long neck"
+    },
+    {
+      "trait_type": "6-Simbol",
+      "value": "Positive"
+    },
+  
+  ],
+
+}

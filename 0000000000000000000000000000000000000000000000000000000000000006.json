@@ -1,0 +1,35 @@
+{
+  "name": "Poison #06",
+  "description": "Nine magic spells.",
+  "image": "https://ipfs.io/ipfs/QmbS9iocMMk4PXeVrx9mtFec35qPTPomsuTerz9dj5D4xo/6.png",
+  
+  "attributes": [
+    {
+      "trait_type": "1-Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "2-Aura",
+      "value": "Galaxy-Purple"
+    },
+    {
+      "trait_type": "3-Labels",
+      "value": "Mana"
+    },
+
+    {
+      "trait_type": "4-Concoctions",
+      "value": "Blue-Purple"
+    },
+    {
+      "trait_type": "5-Bottles",
+      "value": "Round long neck"
+    },
+    {
+      "trait_type": "6-Simbol",
+      "value": "Stars"
+    },
+  
+  ],
+
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Poison #08",
+  "description": "Nine magic spells.",
+  "image": "https://ipfs.io/ipfs/QmbS9iocMMk4PXeVrx9mtFec35qPTPomsuTerz9dj5D4xo/8.png",
+  
+  "attributes": [
+    {
+      "trait_type": "1-Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "2-Aura",
+      "value": "Unicorn"
+    },
+    {
+      "trait_type": "3-Labels",
+      "value": "Change"
+    },
+
+    {
+      "trait_type": "4-Concoctions",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "5-Bottles",
+      "value": "Small crooked neck"
+    },
+    {
+      "trait_type": "6-Simbol",
+      "value": "Galaxy White"
+    },
+  
+  ],
+
+}
