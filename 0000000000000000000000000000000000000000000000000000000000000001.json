@@ -3,7 +3,7 @@
   "description": "Nine magic spells.",
   "image": "https://raw.githubusercontent.com/snowmanclub/9images/main/1.png",
   
-  "attributes": [
+  "attributes": 
    
       "trait_type": "1-Background",
       "value": "Black"
@@ -22,9 +22,6 @@
   
       "trait_type": "6-Simbol",
       "value": "Skull"
-    ],
-
-  
   
   
 }
