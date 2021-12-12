@@ -4,33 +4,25 @@
   "image": "https://raw.githubusercontent.com/snowmanclub/9images/main/1.png",
   
   "attributes": [
-    {
+   
       "trait_type": "1-Background",
       "value": "Black"
-    },
-    {
+ 
       "trait_type": "2-Aura",
       "value": "Green Dead"
-    },
-    {
+   
       "trait_type": "3-Labels",
       "value": "Poison"
-    },
-
-    {
+ 
       "trait_type": "4-Concoctions",
       "value": "Green"
-    },
-    {
+  
       "trait_type": "5-Bottles",
       "value": "Round neck short"
-    },
-    {
+  
       "trait_type": "6-Simbol",
       "value": "Skull"
-    },
-  
-  ],
+    ],
 
   
   
